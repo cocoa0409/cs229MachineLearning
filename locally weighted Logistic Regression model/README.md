@@ -1,5 +1,3 @@
-# Algorithms of MachineLearning
-
 Locally weighted Logistic Regression    (2018.2.28)
 
 As a generalization of Locally weighted linear regression, I use the locally weighted methed to implement classification problem. The most easy case is Logistic regression. It's interesting that we could got the decision boundrary by implement
